@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKzhBeLu3y+iq1rW18exUbvwdqijdQshlcLiL7LykBau39S+PlkfEjv3ZLQxZLdMYjFs9G3QuOk8/n+D2yF0JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askar\\Desktop\\SweetShop_ASP-master\\Domain.Model\\Domain.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\askar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
